@@ -1,0 +1,6 @@
+Python Script to scrap google search result from news tab with detail body.
+
+1. Script take input from a csv (e.g- "keyword.csv") file such as search keyword and language.
+2. Save the data into a MongoDB collection.
+3. Saving the data into text file also.
+
